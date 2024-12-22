@@ -3,7 +3,7 @@ My portfolio website show-casing my skillset and projects.
 
 Please leave a ⭐ if you like it.
 
-![Portfolio Preview](./portfolio-preview.png)
+![Portfolio Preview](./portfolio_preview.png)
 
 
 
